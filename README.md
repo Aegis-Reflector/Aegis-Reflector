@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Emmanuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&size=30&pause=1000&color=FF1616&width=435&lines=I'm+a+student+currently+exploring+the+world+of+technology%2C+with+a+growing+interest+in+cloud+computing+and+networking.)](https://git.io/typing-svg)
 
 <!--
 **Aegis-Reflector/Aegis-Reflector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
