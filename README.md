@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Emmanuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h2> / about me /</h2>
-*Student exploring the world of technology<br>
-*Currently interested in cloud computing<br>
-*Learning more about networking and infrastructure<br>
-*Exploring Linux and system administration<br>
+* Student exploring the world of technology<br>
+* Currently interested in cloud computing<br>
+* Learning more about networking and infrastructure<br>
+* Exploring Linux and system administration<br>
 <h2> / current skills / </h2>
 
 <!--
