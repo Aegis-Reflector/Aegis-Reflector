@@ -7,7 +7,7 @@
 * Exploring Linux and system administration<br>
 <br>
 <h2> / current skills / </h2>
-<br>
+
 <h4> languages </h4>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" />
