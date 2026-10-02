@@ -9,7 +9,7 @@
 
 📫 How to reach me:
 <br>
-<a href="https://www.linkedin.com/in/emmanuel-jean-rigaud-desmornes-a0323633b/" target="_blank">
+<a href="www.linkedin.com/in/emmanuel-jean-rigaud-desmornes-a0323633b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:mmdesmornes@gmail.com">
